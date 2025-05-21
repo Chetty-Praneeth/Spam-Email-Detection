@@ -38,6 +38,6 @@ This project is a Spam Email Detector web app I built using Python and Streamlit
     streamlit run app.py
 
 ## You can try out the live app here:
-[https://your-app-url.com](https://spamdetec.streamlit.app)
+[https://spamdetec.com](https://spamdetec.streamlit.app)
 
 
