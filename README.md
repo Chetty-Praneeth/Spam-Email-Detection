@@ -22,16 +22,19 @@ A simple web app to detect whether an email (or any text message) is spam or not
 
 
 
-## Installation & Steup
-### 1. Clone the repo
+## Installation & Setup
+## Installation & Setup
 
 ```bash
-git clone https://github.com/<your-username>/spam-email-detector.git
-cd spam-email-detector
+# 1. Clone the repo
+git clone https://github.com/Chetty-Praneeth/Spam-Email-Detection.git
+cd Spam-Email-Detection
 
-### 2.Install dependencies:
-```bash
-pip install -r requiremnts.txt
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the app
+streamlit run app.py
 
 
 
